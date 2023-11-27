@@ -1,0 +1,23 @@
+{
+ "content": null, 
+ "creation": "2018-05-06 05:45:01.317466", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2018-05-06 05:45:19.486156", 
+ "modified_by": "Administrator", 
+ "module": "Logistics", 
+ "name": "myth-trade", 
+ "owner": "Administrator", 
+ "page_name": "MYTH Trade", 
+ "roles": [
+  {
+   "role": "All"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "system_page": 0, 
+ "title": "MYTH Trade"
+}
