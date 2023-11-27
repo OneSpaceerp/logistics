@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+License: GNU General Public License
+=======
+License: MIT
+>>>>>>> eb0acbc2294d692d7da2f83a7a58e1076afbaf63

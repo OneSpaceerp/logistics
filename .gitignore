@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+<<<<<<< HEAD
+logistics/docs/current
+=======
+shipping_management/docs/current
+>>>>>>> eb0acbc2294d692d7da2f83a7a58e1076afbaf63
